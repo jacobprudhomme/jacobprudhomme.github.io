@@ -41,7 +41,7 @@ body {
   gap: 2rem;
 }
 
-.link {
+.cv-link {
   text-decoration: none;
   color: #e1cdb5;
   font-size: 1.5rem;
@@ -54,7 +54,7 @@ body {
   text-align: center;
 }
 
-.link:hover {
+.cv-link:hover {
   color: #ff8cc6; /* old value: 635380 */
   background-color: #ace4aa;
 }
